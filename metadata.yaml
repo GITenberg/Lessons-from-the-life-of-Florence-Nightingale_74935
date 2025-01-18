@@ -1,0 +1,35 @@
+_repo: Lessons-from-the-life-of-Florence-Nightingale_74935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aikens, Charlotte A. (Charlotte Albina)
+    alias: Aikens, Charlotte Albina
+    birthdate: 1868
+    deathdate: 1949
+    gutenberg_agent_id: '57736'
+    url: http://www.gutenberg.org/2009/agents/57736
+description: ''
+gutenberg_issued: '2024-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74935'
+  lccn: '15023346'
+language: en
+pgterms:marc904: https://archive.org/details/lessonsfromlifeo00aike
+pgterms:marc905: 20240912113235aikens
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Carol Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bLakeside Publishing Company, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nightingale, Florence, 1820-1910'
+- !lcsh 'Nursing'
+- !lcsh 'Nurses'
+- !lcc 'UH'
+- GITenberg
+title: Lessons from the life of Florence Nightingale
+url: http://www.gutenberg.org/ebooks/74935
