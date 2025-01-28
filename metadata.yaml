@@ -1,5 +1,8 @@
 _repo: Lessons-from-the-life-of-Florence-Nightingale_74935
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74935-h/images/cover.jpg
 creator:
   author:
     agent_name: Aikens, Charlotte A. (Charlotte Albina)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57736'
     url: http://www.gutenberg.org/2009/agents/57736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74935#Lessons-from-the-life-of-Florence-Nightingale
 gutenberg_issued: '2024-12-19'
 gutenberg_type: Text
 identifiers:
